@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold tracking-tight text-ndia-red sm:text-5xl">
           National Defense Industrial Association
         </h1>
-        <p className="text-xl text-gray-600">The trusted leader in defense and national security associations.</p>
+        <p className="text-xl text-gray-600">NDIA is a 501(c)(3) educational nonprofit that engages thoughtful and innovative leaders to promote the best policies, practices, products, and technology for warfighters and others who ensure the safety and security of our nation.</p>
         <div className="flex flex-wrap justify-center gap-4">
           <Link href="/login">
             <Button className="bg-ndia-red hover:bg-red-700">Login</Button>
